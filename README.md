@@ -5,4 +5,9 @@ Points of Interest Selection in Location Based Thermal Emission Side-Channel Ana
 
 thermal data link (6Gb): https://drive.google.com/file/d/1MAEvbZKvlziaguZ39RYvohze86XWfEoY/view?usp=sharing
 
+power data link (6Gb): https://drive.google.com/file/d/1wcoZOh3_w6rEonrMSaRIjJtp9aVImDKy/view?usp=sharing
+
+For power data, some values are very small negative numbers (105 values) , I already round them up to 0, and this is approved by Ansys.
+
+
 Data is provided by Ansys, please keep it private.
