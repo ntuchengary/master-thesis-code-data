@@ -4,3 +4,5 @@
 Points of Interest Selection in Location Based Thermal Emission Side-Channel Analysis and Machine Learning Based Attack Model
 
 thermal data link (6Gb): https://drive.google.com/file/d/1MAEvbZKvlziaguZ39RYvohze86XWfEoY/view?usp=sharing
+
+Data is provided by Ansys, please keep it private.
