@@ -9,5 +9,8 @@ power data link (6Gb): https://drive.google.com/file/d/1wcoZOh3_w6rEonrMSaRIjJtp
 
 For power data, some values are very small negative numbers (105 values) , I already round them up to 0, and this is approved by Ansys.
 
+electromagnetic emission data link : https://drive.google.com/drive/folders/1oR468R0omUsdFF6SFVOtpvDfqMT3dlAE?usp=sharing
+
+EM data is used in paper :	Multiphysics Simulation of EM Side-Channels from Silicon Backside with ML-based Auto-POI Identification
 
 Data is provided by Ansys, please keep it private.
