@@ -14,3 +14,7 @@ electromagnetic emission data link : https://drive.google.com/drive/folders/1oR4
 EM data is used in paper :	Multiphysics Simulation of EM Side-Channels from Silicon Backside with ML-based Auto-POI Identification
 
 Data is provided by Ansys, please keep it private.
+
+All side-channel papers I read and downloaded
+
+https://drive.google.com/file/d/1TQqzp-v3Ab3k53INvEaN4ZxqejrXm0Fu/view?usp=sharing
